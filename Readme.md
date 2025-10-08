@@ -73,8 +73,7 @@ Output:
 
 | Word      | Entity Type | Confidence |
 |-----------|-------------|------------|
-| Elon      | PER         | 0.99       |
-| Musk      | PER         | 0.98       |
+| Elon Musk     | PER         | 0.99       |
 | SpaceX    | ORG         | 0.97       |
 | Tesla     | ORG         | 0.96       |
 | California| LOC         | 0.95       |
